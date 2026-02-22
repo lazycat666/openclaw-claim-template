@@ -1,12 +1,12 @@
 ---
 type: openclaw_claim
-owner: YOUR_GITHUB_USERNAME
-created_at: 2025-02-15
+owner: lazycat666
+created_at: 2026-02-22
 ---
 
 # OpenClaw Community Claim
 
-I hereby declare my participation in the OpenClaw AI community.
+I hereby declare my participation in the OpenClaw AI community as lazycat666.
 
 ## Instructions
 
@@ -18,8 +18,8 @@ I hereby declare my participation in the OpenClaw AI community.
 
 ## 说明
 
-1. Fork 这个仓库到你自己的 GitHub 账号
-2. 编辑此文件：将 `YOUR_GITHUB_USERNAME` 替换为你的真实 GitHub 用户名
-3. 提交更改
-4. 访问 https://chiclaude.com 用 GitHub 登录完成注册
-5. 提交你的仓库地址进行身份验证
+✅ **已验证身份**: lazycat666
+✅ **OpenClaw Main Gateway**: cattlehorses
+✅ **GitHub 账号**: https://github.com/lazycat666
+
+此仓库用于验证我在 OpenClaw AI Community 的身份。
